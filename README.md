@@ -1,12 +1,48 @@
 # Android 开源交流 QQ 群分享汇总
 
 > 添加规范：  
-> `[简单介绍](链接) | [分享者 Github](Github 地址) 或 QQ 昵称`
+> `[简单介绍](链接) | [分享者 Github](Github 地址) 或 QQ 昵称`  
+> 最新添加放相应表格最上面
 
-#### [4 群](https://github.com/aosp-exchange-group/about)
+#### 目录
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
+ 
+#### 原创
+简介 | 几群 | 作者
+:------------- | :------------- | :-------------
+[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | 4 群 |  [天津-Android将军](https://github.com/gcgongchao)
+[HamburgerButton(Android版)](https://github.com/guojunyi/HamburgerButton_android) | 4 群 |  [深圳-yi](https://github.com/guojunyi)
+[手势按钮](https://github.com/maxyou/gesturebutton) | 4 群 | [北京-游子](https://github.com/maxyou/)
+[仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | 4 群 | [创业 - 大鱼]()
+[下拉刷新动画](https://github.com/guojunyi/PullDownListView) | 4 群 | [深圳-yi](https://github.com/guojunyi)
+[下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | 4 群 | [苏州-风纹贝壳](https://github.com/aicaprio)
+
+#### [Group 4](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
+[MorningRouting的窗帘效果有个国人开源出来了](https://github.com/7heaven/bitmapMesh) | [小丑](https://github.com/pcqpcq)  
+[Android应用首页轮播广告控件](https://github.com/gcgongchao/flashview) | [天津-Android将军](https://github.com/gcgongchao)
+[AndroidDevTools中文](http://www.androiddevtools.cn/) | [北京-一休](https://github.com/ikkyu0319)
+[非常不错的团队协作工具Teambition](https://www.teambition.com/projects) | [北京-一休](https://github.com/ikkyu0319)
+[免费的IM解决方案](http://www.easemob.com/hx/index.html) | [北京-一休](https://github.com/ikkyu0319)
+[Android笔记.chm](https://github.com/zcwk/Android-learning-notes/tree/master) | [上海-and](https://github.com/zcwk)
+[一个自动生成gitignore的在线工具](https://www.gitignore.io/) | [杭州-code](https://github.com/shenzihao)
+[自学 iOS 开发的一些经验，同样适用所有初学者](http://www.cocoachina.com/ios/20150104/10823.html) | [小丑](https://github.com/pcqpcq)  
+[Chrome插件：树结构浏览github项目代码](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN  ) | [广州-alee](https://github.com/rizhilee)  
+[在线工具：图片在线压缩](https://tinypng.com/) | [北京-DoAndKeep]()  
+[proGit中文手册，免费](http://progit.org/book/zh/) | [小丑](https://github.com/pcqpcq)  
+[JakeWharton开源了他写的屏幕录像项目，5.0+](https://github.com/JakeWharton/Telecine) | [小丑](https://github.com/pcqpcq)  
+[又一个android项目集合网站](http://android-libs.com/) | [小丑](https://github.com/pcqpcq)  
+[再一个android项目集合网站](http://a.code4app.com/) | [广州-alee](https://github.com/rizhilee)  
+[还有一个android项目集合网站](http://androidcustomviews.com/) | [小丑](https://github.com/pcqpcq)  
+[Android技术周刊](http://androidweekly.net/) | [小丑](https://github.com/pcqpcq)  
+[扩展RecyclerView，增加下拉刷新、分页加载等功能](https://github.com/Malinskiy/SuperRecyclerView) | [小丑](https://github.com/pcqpcq)  
+[经验：开发技能汇总](https://github.com/xiaobeicn/programming-skills-summary) | [自由职业-OneDir](https://github.com/dev4mobile)  
+[经验：Android最佳实践](https://github.com/futurice/android-best-practices) | [自由职业-OneDir](https://github.com/dev4mobile)
+[listview为空时的友好交互界面](https://github.com/alamkanak/android-empty-layout) | [杭州-code](https://github.com/shenzihao)
+[Java-WebSocket(做即时通讯/推送的可以参考下)](https://github.com/TooTallNate/Java-WebSocket) | [tagmic](https://github.com/tagmic)
 [开源音乐播放器](https://github.com/psaravan/JamsMusicPlayer) | [小丑](https://github.com/pcqpcq)
 [HOLO风格的用户引导控件](http://amlcurran.github.io/ShowcaseView/) | [创业－万能野花]()  
 [图文混排](https://github.com/yellowcath/MTextView) | [上海-小红书]()  
@@ -41,10 +77,8 @@
 [ListView每行可展开](https://github.com/tjerkw/Android-SlideExpandableListView) | [小丑](https://github.com/pcqpcq)
 [开源相机](https://github.com/almalence/OpenCamera) | [广州-alee](https://github.com/rizhilee)
 [GPU加载图片](https://github.com/CyberAgent/android-gpuimage) | [广州-alee](https://github.com/rizhilee)
-[【原创】手势按钮](https://github.com/maxyou/gesturebutton) | [北京-游子](https://github.com/maxyou/)
 [开源IM](http://git.oschina.net/farsunset/cim) | [恒巨-vincent]()
 [替换系统的Toast](https://github.com/johnkil/Android-AppMsg) | [超表-Quennel]()
-[【原创】仿5.0Ripple效果](https://github.com/skyfishjy/android-ripple-background) | [创业 - 大鱼]()
 [MVP开发模式](https://github.com/pedrovgs/EffectiveAndroidUI) | [自由职业-OneDir](https://github.com/dev4mobile)
 [Google Material Design 的图标资源](https://github.com/google/material-design-icons) | [广州-alee](https://github.com/rizhilee)
 [强大的图片效果处理库](https://github.com/daizhenjun/ImageFilterForAndroid) | [成都极米-long]()
@@ -67,7 +101,6 @@
 [加强版TextView](https://github.com/chiuki/advanced-textview) | [精创-拉登]()
 [Android瀑布流](https://github.com/etsy/AndroidStaggeredGrid) | [广州-alee](https://github.com/rizhilee)
 [Android自定义View集合](http://androidcustomviews.com/custom-views/) | [上海-Sam]()
-[【原创】下拉刷新动画](https://github.com/guojunyi/PullDownListView) | [深圳-yi](https://github.com/guojunyi)
 [Material风格的GoogleIO-2014，2.3+](https://github.com/rahulparsani/google-io-2014-compat) | [深圳-yi](https://github.com/guojunyi)
 [小红点控件](https://github.com/jgilfelt/android-viewbadger) | [小丑](https://github.com/pcqpcq)
 [在线dp-px换算工具](http://pixplicity.com/dp-px-converter/) | [流光时代-Mako]()
@@ -85,7 +118,6 @@
 [又一个开关控件](https://github.com/kyleduo/SwitchButton) | [小丑](https://github.com/pcqpcq)
 [再一个开关控件](https://github.com/zcweng/ToggleButton) | [小丑](https://github.com/pcqpcq)
 [水波动画的环形进度条](https://github.com/Modificator/water-wave-progress) | [广州-alee](https://github.com/rizhilee)
-[【原创】下拉窗帘效果的控件](https://github.com/aicaprio/CurtainView) | [苏州-风纹贝壳](https://github.com/aicaprio)
 [银行卡格式的输入框](https://github.com/aliHafizji/CreditCardEditText) | [小丑](https://github.com/pcqpcq)
 [又一个银行卡格式的输入框](https://github.com/jgrana/CreditCardEntry) | [小丑](https://github.com/pcqpcq)
 [移植4.2的NumberPicker，2.1+](https://github.com/SimonVT/android-numberpicker ) | [广州-alee](https://github.com/rizhilee)
@@ -125,36 +157,73 @@
 [RecyclerView 的 Item 动画](https://github.com/wasabeef/recyclerview-animators) | [小丑](https://github.com/pcqpcq)
 [码农周刊整理](https://github.com/nemoTyrant/manong)  | [广州-alee](https://github.com/rizhilee)
 [SmartAppUpdates App 增量更新](https://github.com/cundong/SmartAppUpdates) | [zhaoyy](https://github.com/Zhaoyy)
-[MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) | [学生-志雄](https://github.com/jacsonLee)    
+[MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) | [学生-志雄](https://github.com/jacsonLee)
+[Zenhub](https://www.zenhub.io/) | [学生-志雄](https://github.com/jacsonLee)  
+[GridImagePicker图片选择查看的GridView和ViewPager](https://github.com/habzy/GridImagePicker)|[流光时代-Mako](https://github.com/MakoFeng)
+[arsenal 一个Android库集合网站](https://android-arsenal.com/) | [学生-志雄](https://github.com/jacsonLee)  
+[@Fenng](http://www.weibo.com/fenng) 创建[Startup News](https://github.com/halzhang/StartupNews) 没想到也是开源的| [广州-alee](https://github.com/rizhilee) 
+[Jake Wharton写的开源框架示例应用--u2020](https://github.com/JakeWharton/u2020) | [yeungeek](https://github.com/yeungeek) 
+[在u2020应用之上并整合了square的mortar和flow框架](https://github.com/lemonlabs/u2020-mortar) | [yeungeek](https://github.com/yeungeek) 
+[Android应用快速模板生成工具I -- android bootstrap)](http://www.androidbootstrap.com/) | [yeungeek](https://github.com/yeungeek) 
+[Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
+[.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
+[Android开发周报](http://www.androidweekly.cn/) | [东莞-UperOne](https://github.com/zmywly8866) 
+[Android开发技术周报](http://www.inferjay.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
+[png图片压缩工具：Tinypng](https://tinypng.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
+[Android开发者网址导航](https://github.com/zmywly8866/The-Android-Developer-Site-Navigation) | [东莞-UperOne](https://github.com/zmywly8866) 
+[apk-downloader：下载Google Play上的APK到电脑上](http://apps.evozi.com/apk-downloader/) | [东莞-UperOne](https://github.com/zmywly8866) 
+[tutorialspoint：各种编程语言、各个知识点的demo程序](http://www.tutorialspoint.com/) | [东莞-UperOne](https://github.com/zmywly8866) 
+[visualgo：学习数据结构的好去处](http://visualgo.net/) | [东莞-UperOne](https://github.com/zmywly8866)
+[licecap：生成gif图片格式的windows录屏工具](http://www.appinn.com/licecap/) | [东莞-UperOne](https://github.com/zmywly8866)  
+[搜集优秀的Android开源项目或资源信息](https://github.com/dusunboy/android-nice-repo) | [待业-Vincent](https://github.com/dusunboy)
 
-#### [1 群](https://github.com/aosp-exchange-group/about)
+#### [Group 1](https://github.com/aosp-exchange-group/about)
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+[另一种类型的Header的RecycleView](https://github.com/TonicArtos/SuperSLiM) | [北京-虚](https://github.com/xu6148152)
+[计算机书籍收集的repo](https://github.com/papers-we-love/papers-we-love) | [北京-虚](https://github.com/xu6148152)
+[仿豌豆荚首页Demo](https://github.com/YeDaxia/WanDaoJiaIndex) | [北京-虚](https://github.com/xu6148152)
+[仿程序员简历模版](https://github.com/geekcompany/ResumeSample) | [北京-虚](https://github.com/xu6148152)
+[国外公开课](https://github.com/prakhar1989/awesome-courses) | [北京-虚](https://github.com/xu6148152)
+[ios学习资源汇总](https://github.com/Aufree/trip-to-iOS) | [北京-虚](https://github.com/xu6148152)
+[专门生成单例的库](https://github.com/Raizlabs/Singleton) | [北京-虚](https://github.com/xu6148152)
+[车牌识别库](https://github.com/liuruoze/EasyPR) | [北京-虚](https://github.com/xu6148152)
+[RecycleView动画](https://github.com/wasabeef/recyclerview-animators) | [北京-虚](https://github.com/xu6148152)
+[Material Design 中文版](http://design.1sters.com/) | [深圳-扯淡兄](https://github.com/qqonline)
+[Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) | [深圳-扯淡兄](https://github.com/qqonline)
+[Android Weekly(中文版)](http://zhuanlan.zhihu.com/android-weekly) | [深圳-扯淡兄](https://github.com/qqonline)
 
-#### [2 群](https://github.com/aosp-exchange-group/about)
+#### [Group 2](https://github.com/aosp-exchange-group/about)
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+ | | 
+
+#### [Group 3](https://github.com/aosp-exchange-group/about)
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
+
+简介 | 分享者
+:------------- | :-------------
+ | | 
  
-
-#### [3 群](https://github.com/aosp-exchange-group/about)
-
-简介 | 分享者
-:------------- | :-------------
- | | |
- 
- 
-#### [5 群](https://github.com/aosp-exchange-group/about)
+#### [Group 5](https://github.com/aosp-exchange-group/about)
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+ | | 
  
-#### [6 群](https://github.com/aosp-exchange-group/about)
+#### [Group 6](https://github.com/aosp-exchange-group/about)  
+[开源交流 1 群](https://github.com/aosp-exchange-group/share#group-1) ------ [开源交流 2 群](https://github.com/aosp-exchange-group/share#group-2) ------ [开源交流 3 群](https://github.com/aosp-exchange-group/share#group-3)  
+[开源交流 4 群](https://github.com/aosp-exchange-group/share#group-4) ------ [开源交流 5 群](https://github.com/aosp-exchange-group/share#group-5) ------ [开源交流 6 群](https://github.com/aosp-exchange-group/share#group-6)  
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+ | | 
